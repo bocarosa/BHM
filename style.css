@@ -18,4 +18,10 @@ header{
 }
 section{
     display: flex;
+    background-color: var(--roxo-claro);
+    border-radius: 30px; */
+    /* border-style: dashed; */
+    /* border-width: 5px; */
+    /* border-color: blue; */
+    border: dotted 10px blue;
 }
