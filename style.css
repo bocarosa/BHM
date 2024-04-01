@@ -20,7 +20,7 @@ header{
 section{
     display: flex;
     background-color: var(--branco);
-    border-radius: 30px; */
+    border-radius: 30px; 
     /* border-style: dashed; */
     /* border-width: 5px; */
     /* border-color: blue; */
