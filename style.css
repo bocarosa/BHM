@@ -25,4 +25,6 @@ section{
     /* border-width: 5px; */
     /* border-color: blue; */
     border: dotted 10px rgb(0, 0, 0);
+    margin: 30px;
+    padding: 95px;
 }
