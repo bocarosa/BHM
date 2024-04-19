@@ -24,8 +24,7 @@ header{
 }
 .intro{
     display: flex;
-    background-color: var(--branco);
-    border-radius: 30px; 
+    background-color: var(--branco); 
     /* border-style: dashed; */
     /* border-width: 5px; */
     /* border-color: blue; */
