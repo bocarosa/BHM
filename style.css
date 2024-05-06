@@ -58,3 +58,11 @@ header a{
     width: 86%;
     margin-top: 11px;
 }
+
+.dd{
+    text-align: center;
+}
+.ddd{
+    width: 500px;
+    height: 300px;
+}
